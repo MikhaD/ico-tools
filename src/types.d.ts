@@ -1,0 +1,1 @@
+type ImageFile = File & { type: "image/jpeg" | "image/png" | "image/svg+xml"; };
